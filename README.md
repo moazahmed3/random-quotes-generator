@@ -26,7 +26,7 @@ On first load, quotes are fetched once and stored locally in an array.
 
 When clicking "Generate", a random quote is selected and displayed.
 
-Clicking "Auto" starts a 2-second interval that updates quotes automatically.
+Clicking "Auto" starts a 4-second interval that updates quotes automatically.
 
 "Stop" clears the interval and halts the quote generation.
 
