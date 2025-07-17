@@ -45,7 +45,7 @@ let idInterval;
 async function autoQuotes() {
   idInterval = setInterval(() => {
     generateQuotes();
-  }, 2000);
+  }, 4000);
 statusText.classList.add("d-block", "text-success");
   statusText.classList.remove("d-none","text-danger");
 
